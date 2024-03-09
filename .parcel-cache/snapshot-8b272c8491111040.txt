@@ -1,4 +1,4 @@
-23595
+23598
 87C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\escape-string-regexp\readme.md133542443819650600 0
 103C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\base\node_modules\define-property\package.json133542454744053262 0
 80C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\lodash\fp\extendWith.js133542452375215123 0
@@ -14,7 +14,7 @@
 97C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\string.prototype.trimstart\.editorconfig133542454743305250 0
 98C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\css-tree\cjs\syntax\node\FeatureRange.cjs133542455526449471 0
 91C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\css-tree\cjs\lexer\match-graph.cjs133542455554326049 0
-70C:\Users\karut\IdeaProjects\LearnTypeScript\dist\index.377278e2.js.map133544662549222216 0
+70C:\Users\karut\IdeaProjects\LearnTypeScript\dist\index.377278e2.js.map133544973870143923 0
 123C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\mergePaths.js133542455525314070 0
 97C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\jsdom\node_modules\acorn\dist\acorn.d.ts133542452391073434 0
 81C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\abortcontroller-polyfill133542455522145549 1
@@ -33,7 +33,7 @@
 91C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\stream-http\test\browser\cookie.js133542454762551423 0
 99C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\postcss-selector-parser\dist\tokenTypes.js133542452338895574 0
 89C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\ordered-binary\.idea\modules.xml133542455522302755 0
-66C:\Users\karut\IdeaProjects\LearnTypeScript\dist\index.377278e2.js133544662549172116 0
+66C:\Users\karut\IdeaProjects\LearnTypeScript\dist\index.377278e2.js133544973870102109 0
 91C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\caniuse-lite\data\features\calc.js133542443828836021 0
 79C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\regexp.prototype.flags133542454762180927 1
 88C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\caniuse-lite\data\regions\KZ.js133542443834400832 0
@@ -41,7 +41,7 @@
 95C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\@babel\plugin-syntax-flow\lib\index.js133542454748513121 0
 70C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\is-descriptor133542454758287767 1
 66C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\path-type133542455517637848 1
-48C:\Users\karut\IdeaProjects\LearnTypeScript\dist133544662549257267 1
+48C:\Users\karut\IdeaProjects\LearnTypeScript\dist133544973870163917 1
 83C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\css-select\lib\sort.js.map133542455527974229 0
 78C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\node-forge\lib\pki.js133542454768360126 0
 90C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\node-libs-browser\mock\process.js133542454757626313 0
@@ -146,7 +146,7 @@
 109C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\css-select\node_modules\entities\lib\esm\encode.d.ts133542455531742917 0
 66C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\is-string133542454757526643 1
 75C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\through2\README.md133542454747516793 0
-47C:\Users\karut\IdeaProjects\LearnTypeScript\src133543266512611220 1
+47C:\Users\karut\IdeaProjects\LearnTypeScript\src133544767479026963 1
 127C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js.map133542455524999153 0
 77C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\path-type\index.d.ts133542455516186398 0
 77C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\tiny-inflate\LICENSE133542454743385249 0
@@ -191,7 +191,7 @@
 86C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\css-tree\lib\lexer\generic.js133542455558905659 0
 87C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\@parcel\cache\src\LMDBCache.js133542455521228758 0
 100C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\parcel-bundler\lib\packagers\RawPackager.js133542455530688507 0
-56C:\Users\karut\IdeaProjects\LearnTypeScript\src\index.ts133544662548757409 0
+56C:\Users\karut\IdeaProjects\LearnTypeScript\src\index.ts133544973869790372 0
 75C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\get-port\readme.md133542455517815946 0
 77C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\lodash\fp\indexOf.js133542452378024488 0
 122C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\package.json133542454744233707 0
@@ -4257,6 +4257,7 @@
 83C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\lodash\_setWrapToString.js133542452371166511 0
 124C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\parcel-bundler\node_modules\postcss-discard-overridden\package.json133542454744243737 0
 83C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\uncss\node_modules\postcss133542452467975602 1
+57C:\Users\karut\IdeaProjects\LearnTypeScript\src\functions133544973827180655 1
 94C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\type-fest\source\set-return-type.d.ts133542455525674852 0
 89C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\json-stringify-safe\package.json133542452313362883 0
 74C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\uniq\test\test.js133542452306095832 0
@@ -8877,6 +8878,7 @@
 124C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttrs.js133542455526438832 0
 112C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\postcss-modules-scope\node_modules\postcss\lib\parse.js133542454765432260 0
 163C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\parcel-bundler\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\sortAscending.js133542454763788357 0
+80C:\Users\karut\IdeaProjects\LearnTypeScript\src\functions\functionOverloading.ts133544973827180655 0
 116C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\@babel\code-frame\node_modules\color-convert\conversions.js133542443947740128 0
 113C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\postcss-modules-scope\node_modules\postcss\lib\parser.js133542454765807663 0
 103C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\jsdom\lib\jsdom\living\generated\InputEvent.js133542452347328126 0
@@ -13654,7 +13656,7 @@
 91C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\@parcel\core\src\ReporterRunner.js133542455557489093 0
 88C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\caniuse-lite\data\regions\RW.js133542443836952526 0
 103C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133542455517720708 0
-76C:\Users\karut\IdeaProjects\LearnTypeScript\dist\LearnTypeScript.3464ddca.js133544658728406712 0
+76C:\Users\karut\IdeaProjects\LearnTypeScript\dist\LearnTypeScript.3464ddca.js133544972458231957 0
 102C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\lmdb\node_modules\node-addon-api\package.json133542455523559244 0
 99C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\deasync\bin\linux-x64-node-15\deasync.node133542454770198230 0
 111C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133542455522125530 0
@@ -15727,7 +15729,7 @@
 83C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\es-abstract\2023\modulo.js133542454787291727 0
 104C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\expand-brackets\node_modules\debug\src\index.js133542454761875177 0
 103C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\expand-brackets\node_modules\debug\src\node.js133542454762689487 0
-64C:\Users\karut\IdeaProjects\LearnTypeScript\src\types\example.ts133544662491610919 0
+64C:\Users\karut\IdeaProjects\LearnTypeScript\src\types\example.ts133544662605467681 0
 100C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\core-js\library\modules\es7.math.degrees.js133542454784445704 0
 89C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\expand-brackets\lib\compilers.js133542454754213609 0
 107C:\Users\karut\IdeaProjects\LearnTypeScript\node_modules\es-abstract\2022\IsCompatiblePropertyDescriptor.js133542454783904674 0
@@ -23592,5 +23594,6 @@
 53C:\Users\karut\IdeaProjects\LearnTypeScript\.cache\fc133542453844214903 1
 89C:\Users\karut\IdeaProjects\LearnTypeScript\.cache\52\092541ee434ba3ce40f7fc6b89ad41.json133543266512008319 0
 69C:\Users\karut\IdeaProjects\LearnTypeScript\src\types\voidAndNever.ts133544645499710821 0
-59C:\Users\karut\IdeaProjects\LearnTypeScript\dist\index.html133544658728396873 0
-80C:\Users\karut\IdeaProjects\LearnTypeScript\dist\LearnTypeScript.3464ddca.js.map133544658728446709 0
+66C:\Users\karut\IdeaProjects\LearnTypeScript\src\functions\index.ts133544962348133007 0
+59C:\Users\karut\IdeaProjects\LearnTypeScript\dist\index.html133544972458156566 0
+80C:\Users\karut\IdeaProjects\LearnTypeScript\dist\LearnTypeScript.3464ddca.js.map133544972458358883 0
